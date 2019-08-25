@@ -2,6 +2,8 @@ package com.example.hungr;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -29,22 +31,4 @@ public class MainActivity extends AppCompatActivity {
 //        NavigationUI.setupWithNavController(navView, navController);
     }
 
-
 }
-
-//public class
-
-//public class MyActivity extends Activity {
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//
-//        setContentView(R.layout.content_layout_id);
-//
-//        final Button button = findViewById(R.id.button_id);
-//        button.setOnClickListener(new View.OnClickListener() {
-//            public void onClick(View v) {
-//                // Code here executes on main thread after user presses button
-//            }
-//        });
-//    }
-//}

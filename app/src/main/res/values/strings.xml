@@ -6,4 +6,6 @@
     <string name="title_log_in">Log In</string>
     <string name="user_username">Username</string>
     <string name="user_password">Password</string>
+    <string name="name">Alberto García</string>
+    <string name="foods_to_eat">What do you want to eat?</string>
 </resources>
